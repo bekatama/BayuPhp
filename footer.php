@@ -39,7 +39,7 @@
 	<?php } ?>
 	<script type="text/javascript" src="assets/js/custom/terbilang.js"></script>
 	<script type="text/javascript" src="assets/js/custom/numericOnly.min.js"></script>
-	//haroream aahh
+<!-- bushido -->
 	<!-- <script type="text/javascript" src="assets/js/custom/charts.js"></script> -->
 	<!--
 	<script type="text/javascript" src="assets/js/plugins/jquery.ui.datepicker-id.js"></script>	
